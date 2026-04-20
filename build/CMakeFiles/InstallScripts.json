@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/elyas/Desktop/Projet/ameliorationaf/enccorree/build/cmake_install.cmake",
+		"/Users/elyas/Desktop/Projet/ameliorationaf/enccorree/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/elyas/Desktop/Projet/ameliorationaf/enccorree/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/elyas/Desktop/Projet/ameliorationaf/enccorree/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

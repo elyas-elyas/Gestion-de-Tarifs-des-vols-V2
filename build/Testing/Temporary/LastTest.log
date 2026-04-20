@@ -1,0 +1,52 @@
+Start testing: Apr 20 23:30 CEST
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/Users/elyas/Desktop/Projet/ameliorationaf/enccorree/build/tests_app"
+Directory: /Users/elyas/Desktop/Projet/ameliorationaf/enccorree/build
+"AllTests" start time: Apr 20 23:30 CEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/elyas/Desktop/Projet/ameliorationaf/enccorree/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 7 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from TarifTest
+[ RUN      ] TarifTest.InitialisationCorrecte
+[       OK ] TarifTest.InitialisationCorrecte (0 ms)
+[----------] 1 test from TarifTest (0 ms total)
+
+[----------] 4 tests from ODTest
+[ RUN      ] ODTest.Initialisation
+[       OK ] ODTest.Initialisation (0 ms)
+[ RUN      ] ODTest.AjoutEtRemplacementTarif
+[       OK ] ODTest.AjoutEtRemplacementTarif (0 ms)
+[ RUN      ] ODTest.GestionListeVide
+[       OK ] ODTest.GestionListeVide (0 ms)
+[ RUN      ] ODTest.StatistiquesTarifs
+[       OK ] ODTest.StatistiquesTarifs (0 ms)
+[----------] 4 tests from ODTest (0 ms total)
+
+[----------] 1 test from FlightNbrTest
+[ RUN      ] FlightNbrTest.AssociationItineraire
+[       OK ] FlightNbrTest.AssociationItineraire (0 ms)
+[----------] 1 test from FlightNbrTest (0 ms total)
+
+[----------] 1 test from GestionnaireCSVTest
+[ RUN      ] GestionnaireCSVTest.LectureEtEcriture
+[INFO] Parsage Zero-Copy termine via 10 threads.
+Rapport genere : test_temp_output.csv
+[       OK ] GestionnaireCSVTest.LectureEtEcriture (0 ms)
+[----------] 1 test from GestionnaireCSVTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 7 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 7 tests.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Apr 20 23:30 CEST
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 20 23:30 CEST

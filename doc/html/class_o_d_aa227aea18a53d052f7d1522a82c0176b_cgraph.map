@@ -1,0 +1,7 @@
+<map id="OD::ajouterTarif" name="OD::ajouterTarif">
+<area shape="rect" id="Node000001" title="Ajoute un tarif à la liste en respectant certaines règles :" alt="" coords="5,31,119,57"/>
+<area shape="rect" id="Node000002" href="$class_tarif.html#a7968db2cec9cc504a030dd9134ea5e06" title="Accesseur pour obtenir la valeur Net du tarif." alt="" coords="170,5,264,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,32,154,26,155,31,120,37"/>
+<area shape="rect" id="Node000003" href="$class_tarif.html#af3198f5c89090d7609d80a2a4050751b" title="Accesseur pour obtenir la taxe du tarif." alt="" coords="167,56,267,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,51,152,56,151,61,119,56"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Fonction principale du programme de test." alt="" coords="5,31,55,57"/>
+<area shape="rect" id="Node000002" href="$class_flight_nbr.html#a88c4c95e1f62cf5465c3704caafa389c" title="Affiche les informations du vol et ses tarifs associés." alt="" coords="103,5,227,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,37,87,31,88,36,55,42"/>
+<area shape="rect" id="Node000003" href="$class_o_d.html#aa227aea18a53d052f7d1522a82c0176b" title="Ajoute un tarif à la liste en respectant certaines règles :" alt="" coords="108,56,222,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="55,46,93,53,92,58,54,51"/>
+<area shape="rect" id="Node000004" href="$class_tarif.html#a7968db2cec9cc504a030dd9134ea5e06" title="Accesseur pour obtenir la valeur Net du tarif." alt="" coords="278,31,372,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,58,263,51,264,56,222,63"/>
+<area shape="rect" id="Node000005" href="$class_tarif.html#af3198f5c89090d7609d80a2a4050751b" title="Accesseur pour obtenir la taxe du tarif." alt="" coords="275,81,375,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="222,76,260,82,259,87,221,81"/>
+</map>

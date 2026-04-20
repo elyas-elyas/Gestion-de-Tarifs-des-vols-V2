@@ -1,0 +1,15 @@
+<map id="Tarif::getTaxe" name="Tarif::getTaxe">
+<area shape="rect" id="Node000001" title="Accesseur pour obtenir la taxe du tarif." alt="" coords="588,81,689,108"/>
+<area shape="rect" id="Node000002" href="$class_o_d.html#aa227aea18a53d052f7d1522a82c0176b" title="Ajoute un tarif à la liste en respectant certaines règles :" alt="" coords="396,52,509,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="573,87,509,77,510,72,574,82"/>
+<area shape="rect" id="Node000006" href="$class_gestionnaire_c_s_v.html#a64802655a882fad1c29c52b160c0df6f" title="Exporte un rapport CSV contenant les informations analytiques." alt="" coords="364,103,540,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="574,108,541,113,540,107,573,102"/>
+<area shape="rect" id="Node000003" href="$class_gestionnaire_c_s_v.html#a79844198ec2c613b89cffe291078312c" title="Lit un fichier CSV contenant des informations sur les vols et tarifs puis crée les objets FlightNbr e..." alt="" coords="103,5,316,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,54,282,35,283,30,381,49"/>
+<area shape="rect" id="Node000005" href="$test__c___o_d___tarif_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Fonction principale du programme de test." alt="" coords="185,56,234,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="380,69,234,72,234,66,380,64"/>
+<area shape="rect" id="Node000004" href="$test__i___gestionnaire_c_s_v__lire_c_s_v_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Fonction principale du programme de test." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+<area shape="rect" id="Node000007" href="$test__j___gestionnaire_c_s_v__export_c_s_v_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Fonction principale du programme de test." alt="" coords="185,111,234,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="348,127,234,127,234,121,348,121"/>
+</map>

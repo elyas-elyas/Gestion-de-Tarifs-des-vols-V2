@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Fonction principale du programme de test." alt="" coords="5,81,55,108"/>
+<area shape="rect" id="Node000002" href="$class_o_d.html#abf9af9b126a34a64de04a3c8c541e200" title="Affiche la liste des tarifs associés à l&#39;OD pour une meilleur visualisation." alt="" coords="153,5,244,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,79,71,60,102,42,137,29,138,34,104,46,74,64,49,83"/>
+<area shape="rect" id="Node000003" href="$class_tarif.html#ad38d86265121bc01adb61a2ce29d692e" title="Affiche les informations du tarif (classe, Net, Taxe)." alt="" coords="150,56,246,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="55,88,134,76,135,81,55,94"/>
+<area shape="rect" id="Node000004" href="$class_o_d.html#aa227aea18a53d052f7d1522a82c0176b" title="Ajoute un tarif à la liste en respectant certaines règles :" alt="" coords="142,157,255,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="49,106,74,125,104,143,128,152,126,157,102,148,71,130,46,111"/>
+<area shape="rect" id="Node000007" href="$class_o_d.html#ae8e8cba9bf7dbf7cdf96390e85847ac4" title="Retourne le tarif net maximum parmi la liste des tarifs." alt="" coords="103,107,294,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="55,96,91,101,91,106,55,101"/>
+<area shape="rect" id="Node000005" href="$class_tarif.html#a7968db2cec9cc504a030dd9134ea5e06" title="Accesseur pour obtenir la valeur Net du tarif." alt="" coords="346,107,439,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,154,330,133,331,139,253,159"/>
+<area shape="rect" id="Node000006" href="$class_tarif.html#af3198f5c89090d7609d80a2a4050751b" title="Accesseur pour obtenir la taxe du tarif." alt="" coords="342,157,442,184"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="255,168,327,168,327,173,255,173"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="294,117,330,117,330,123,294,123"/>
+</map>

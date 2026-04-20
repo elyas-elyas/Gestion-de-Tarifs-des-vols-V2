@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  yield-dashboard:
+    build: .
+    container_name: app_aide_decision_afklm
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1

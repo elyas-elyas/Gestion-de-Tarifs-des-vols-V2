@@ -1,0 +1,5 @@
+<map id="OD::obtenirTarifNetMinimum" name="OD::obtenirTarifNetMinimum">
+<area shape="rect" id="Node000001" title="Retourne le tarif net minimum parmi la liste des tarifs." alt="" coords="5,5,193,32"/>
+<area shape="rect" id="Node000002" href="$class_tarif.html#a7968db2cec9cc504a030dd9134ea5e06" title="Accesseur pour obtenir la valeur Net du tarif." alt="" coords="241,5,334,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,16,225,16,225,21,193,21"/>
+</map>

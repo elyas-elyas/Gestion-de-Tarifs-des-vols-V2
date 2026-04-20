@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Fonction principale du programme de test." alt="" coords="5,31,55,57"/>
+<area shape="rect" id="Node000002" href="$class_o_d.html#abf9af9b126a34a64de04a3c8c541e200" title="Affiche la liste des tarifs associés à l&#39;OD pour une meilleur visualisation." alt="" coords="114,5,205,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,37,98,28,99,33,56,42"/>
+<area shape="rect" id="Node000003" href="$class_o_d.html#aa227aea18a53d052f7d1522a82c0176b" title="Ajoute un tarif à la liste en respectant certaines règles :" alt="" coords="103,56,216,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="56,46,88,53,87,58,55,51"/>
+<area shape="rect" id="Node000004" href="$class_tarif.html#a7968db2cec9cc504a030dd9134ea5e06" title="Accesseur pour obtenir la valeur Net du tarif." alt="" coords="268,31,361,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,57,252,51,252,57,217,63"/>
+<area shape="rect" id="Node000005" href="$class_tarif.html#af3198f5c89090d7609d80a2a4050751b" title="Accesseur pour obtenir la taxe du tarif." alt="" coords="264,81,364,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="217,76,249,81,248,87,216,81"/>
+</map>

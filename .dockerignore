@@ -1,0 +1,7 @@
+build/
+.git/
+__pycache__/
+*.bat
+*.command
+data/uploaded_sample.csv
+data/rapport_analyse.csv
