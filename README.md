@@ -63,6 +63,8 @@ Une fois l'exécution du programme terminée, plusieurs éléments sont génér�
 - **Documentation** : La documentation générée par Doxygen est disponible en HTML.
   - [documentation](./doc/) - Pour y acceder lancer le fichier `Documentation.html`
   Il est possible de générer d'autres formats en modifiant les options dans le fichier `Doxyfile`.
+
+  
 **Arborescence du projet final** :
 
 ```text
